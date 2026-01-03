@@ -1,0 +1,20 @@
+{
+  "name": "js-speed-course",
+  "version": "1.0.0",
+  "description": "This repository is dedicated to revisiting and strengthening core JavaScript fundamentals, while also exploring a selection of more advanced concepts commonly used in real-world applications. The goal is to reinforce a solid understanding of the language, refine best practices, and deepen technical proficiency through practical and focused examples.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:angelarreolagg/js-speed-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
